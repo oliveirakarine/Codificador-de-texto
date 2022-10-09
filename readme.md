@@ -1,11 +1,6 @@
 # Codificador de texto
 
-## descriçao **negrito**
 
+Desafio da Alura Html e JavaScript.
 
-#### nslfslgksnflgjfgl
-
-
-- First item
-- Second item
-- Third item
+Criptografa e discriptografa palavras.
